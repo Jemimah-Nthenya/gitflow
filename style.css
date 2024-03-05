@@ -1,6 +1,7 @@
 body{
     background-image:url(new.png);
     background-size: cover;
+    margin: 10%;
    
 }
 #navbar{
@@ -16,6 +17,7 @@ color: white;
     left: 30%;
     right: 30%;
     color: white;
+    margin-bottom: 40%;
 }
 #words{
     text-align: center;
@@ -23,4 +25,32 @@ color: white;
 }
 #hike{
     color: rgb(235, 235, 11);
+}
+
+h2{
+    color: brown;
+    color: white;
+}
+
+#container{
+    display: flex;
+    float: left;
+    
+}
+
+.photo1{
+    width:300px;
+    height: 400px;
+    padding: 100px 200px;
+}
+
+#main{
+    background-color: darkslategray;
+    margin-top: 25%;
+    font-size: large;
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-block-end: 500px;
+
 }
