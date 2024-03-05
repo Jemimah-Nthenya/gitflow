@@ -47,7 +47,7 @@ h2{
 }
 
 #main{
-     background-color: rgb(11, 29, 38);
+     background-color: rgb(11, 28, 38);
     margin-top: 25%;
     font-size: large;
     color: white;
@@ -59,7 +59,7 @@ h2{
 .hiked{
     display: flex;
     justify-content: space-around;
-    background-color: rgb(11, 29, 38);
+    background-color: rgb(11, 28, 38);
     
  }
 
@@ -76,7 +76,7 @@ h2{
  
  }
  .page3{
-     background-color: rgb(11, 29, 38);
+     background-color: rgb(11, 28, 38);
      margin-top: 0%;
  display: flex;
  }
@@ -108,7 +108,7 @@ justify-content: space-evenly;
  #containers{
     display: flex;
     gap: 5%;
-    background-color: rgb(11, 29, 38);
+    background-color: rgb(11, 28, 38);
     text-decoration: rgb(241, 239, 236);
     -webkit-text-fill-color: antiquewhite;
     
