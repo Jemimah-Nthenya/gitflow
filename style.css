@@ -54,3 +54,23 @@ h2{
     margin-block-end: 500px;
 
 }
+.hike{
+    display: flex;
+    justify-content: space-around;
+    background-color: darkslategray
+    
+ }
+
+ 
+ .image{
+    display: flex;
+    flex: content;
+    justify-content: space-evenly;
+ }
+ .Pick{ 
+    color: white;
+    top: 40%;
+    font-size: x-large;
+ 
+ }
+ 
