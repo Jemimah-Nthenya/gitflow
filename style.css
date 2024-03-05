@@ -1,7 +1,7 @@
 body{
-    background-image:url(new.png);
-    background-size: cover;
-    margin: 10%;
+    background-image:url(Image/pexels.jpg);
+    background-size: 2000px;
+    background-repeat: no-repeat;
    
 }
 #navbar{
