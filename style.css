@@ -2,6 +2,7 @@ body{
     background-image:url(Image/pexels.jpg);
     background-size: 2000px;
     background-repeat: no-repeat;
+    
    
 }
 #navbar{
@@ -17,7 +18,8 @@ color: white;
     left: 30%;
     right: 30%;
     color: white;
-    margin-bottom: 40%;
+    
+    
 }
 #words{
     text-align: center;
@@ -45,19 +47,19 @@ h2{
 }
 
 #main{
-    background-color: darkslategray;
+     background-color: rgb(11, 29, 38);
     margin-top: 25%;
     font-size: large;
     color: white;
     display: flex;
     justify-content: center;
-    margin-block-end: 500px;
+    
 
 }
 .hiked{
     display: flex;
     justify-content: space-around;
-    background-color: darkslategray
+    background-color: rgb(11, 29, 38);
     
  }
 
@@ -75,7 +77,7 @@ h2{
  }
  .page3{
      background-color: rgb(11, 29, 38);
-     margin-top: 20%;
+     margin-top: 0%;
  display: flex;
  }
  
@@ -84,10 +86,13 @@ h2{
      float: right;
      padding-left: 55%;
      margin-right: 18%;
-     margin-bottom: 10%;
+     margin-bottom: 60%;
      margin-top: 10%;
      padding-bottom: 30px;
+justify-content: space-evenly;
+     flex: content;
      display: flex;
+     
  
  }
  
@@ -100,5 +105,13 @@ h2{
  h5{
     color: rgb(218, 187, 111);
  }
+ #containers{
+    display: flex;
+    gap: 5%;
+    background-color: rgb(11, 29, 38);
+    text-decoration: rgb(241, 239, 236);
+    -webkit-text-fill-color: antiquewhite;
+    
+}
 
  
